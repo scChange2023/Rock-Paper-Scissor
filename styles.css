@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.titles {
+  display: flex;
+  justify-content: space-around;
+}
+.score {
+  display: flex;
+  justify-content: space-around;
+}
+
+.selections {
+  display: flex;
+  justify-content: space-around;
+}
+
+.paragraph {
+  margin: 25px;
+}
+
+body {
+  margin: 25px;
+}
+
+.resetButton {
+  display: flex;
+  width: 50px;
+  justify-content: center;
+}
